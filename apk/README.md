@@ -97,7 +97,3 @@ app/src/main/java/com/example/antivirussim/
 ---
 
 *Educational project — not a substitute for a real antivirus.*
-
-## LICENSE
-
-[MIT License] (LICENSE)
