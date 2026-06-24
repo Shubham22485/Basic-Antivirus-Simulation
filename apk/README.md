@@ -1,7 +1,5 @@
 # Antivirus Sim
 
-![Antivirus Sim](docs/images/banner.png)
-
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Language](https://img.shields.io/badge/Kotlin-1.9.24-5BA8FF?style=flat-square&logo=kotlin&logoColor=white)
 ![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-5BA8FF?style=flat-square)
