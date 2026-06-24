@@ -1,5 +1,10 @@
 # Basic Antivirus Simulation — Signature Scanner
 
+![Python](https://img.shields.io/badge/Python-3.7%2B-5BA8FF?style=flat-square&logo=python&logoColor=white)
+![Dependencies](https://img.shields.io/badge/dependencies-none-3DDC84?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-8B98A3?style=flat-square)
+![License](https://img.shields.io/badge/license-Educational-FFB454?style=flat-square)
+
 A Python-based signature antivirus engine that scans files, computes cryptographic hashes, and flags threats using hash matching, suspicious string detection, and extension blacklisting.
 
 ## Overview
