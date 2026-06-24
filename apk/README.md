@@ -23,10 +23,6 @@ detection order as the CLI tool it's based on.
 | **Scan a single file** | Check one file on demand |
 | **EICAR self-test** | Generate the industry-standard harmless test file and confirm detection works |
 
-Each file is checked in three stages, and the scan stops at the first match:
-
-![Per-file scan flow](docs/images/scan-flow.png)
-
 > This is a learning tool. It only recognizes the public EICAR test
 > signature and a handful of generic byte patterns — it is **not** a real
 > antivirus and won't detect actual malware.
@@ -48,8 +44,6 @@ sorted with the most severe findings first.
 The app follows a straightforward unidirectional layering — Compose screens
 read state from a `ViewModel`, which drives a plain-Kotlin scanner engine
 that knows nothing about Android UI at all:
-
-![App architecture](docs/images/architecture.png)
 
 ```
 app/src/main/java/com/example/antivirussim/
