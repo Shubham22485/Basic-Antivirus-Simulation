@@ -256,7 +256,7 @@ This tool is designed for Linux desktop/server environments. For Android usage:
 
 ## License
 
-[MIT license] (LICENSE)
+[MIT license] 
 
 This project is provided for **educational and authorized security testing purposes only**.
 
