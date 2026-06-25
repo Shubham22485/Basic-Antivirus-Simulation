@@ -256,6 +256,8 @@ This tool is designed for Linux desktop/server environments. For Android usage:
 
 ## License
 
+[MIT license] (LICENSE)
+
 This project is provided for **educational and authorized security testing purposes only**.
 
 Users are responsible for ensuring they have explicit authorization to scan any systems or files they test with this tool. Unauthorized scanning of systems you do not own or have written permission to test may violate applicable laws.
